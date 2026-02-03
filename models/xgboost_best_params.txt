@@ -1,0 +1,16 @@
+XGBoost Best Parameters
+==================================================
+
+max_depth           : 4
+learning_rate       : 0.03952648481720256
+n_estimators        : 173
+min_child_weight    : 4
+subsample           : 0.9001775849840041
+colsample_bytree    : 0.8765049048742547
+gamma               : 3.5133880421311545
+reg_alpha           : 1.0651184005005336
+reg_lambda          : 0.2596595970587122
+
+Best CV F1-Score: 0.7570
+Test Accuracy: 0.7540
+Test F1-Score: 0.7567

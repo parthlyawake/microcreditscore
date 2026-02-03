@@ -1,0 +1,2 @@
+model,accuracy,f1_weighted
+Weighted Ensemble,0.7556,0.7587111790331341
